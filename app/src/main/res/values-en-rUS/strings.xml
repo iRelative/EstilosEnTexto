@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Example 04</string>
+    <string name="titulo">Enter a phrase</string>
+    <string name="checknegrita">Bold</string>
+    <string name="checkCursiva">Italic</string>
+</resources>

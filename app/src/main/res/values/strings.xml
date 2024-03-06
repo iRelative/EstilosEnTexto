@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio 4</string>
+    <string name="titulo">Ingrese una cadena</string>
+    <string name="autor" translatable="false">Arturo Raul</string>
+    <string name="checknegrita">Negrita</string>
+    <string name="checkCursiva">Cursiva</string>
+</resources>
